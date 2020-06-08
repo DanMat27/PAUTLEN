@@ -1,7 +1,7 @@
 # PAUTLEN
 Compilador realizado en Proyecto de Autómatas y Lenguajes en la UAM
  
-Pareja: Daniel Mateo y FPS.  
+Pareja: DanMat27 y FPS.  
 
 INFO:  
 
