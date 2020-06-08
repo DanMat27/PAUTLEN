@@ -2,7 +2,7 @@
 Compilador realizado en Proyecto de Autómatas y Lenguajes en la UAM
 
 Grupo 1362.
-Pareja 12: Daniel Mateo y Franccy del Piero Sambrano.
+Pareja: Daniel Mateo y FPS.
 
 INFO:  
 
