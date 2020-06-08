@@ -1,8 +1,7 @@
 /**
 * File: generacion.h
-* Autores: Daniel Mateo
-*          Franccy del Piero Sambrano
-* Grupo: 1362
+* Autores: DanMat27
+*          FPS
 */
 
 #ifndef GENERACION_H
