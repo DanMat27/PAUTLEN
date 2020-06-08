@@ -1,5 +1,5 @@
-# Daniel Mateo Moreno
-# Franccy del Piero Sambrano
+# DanMat27
+# FPS
 # File: Makefile
 
 CC = gcc
