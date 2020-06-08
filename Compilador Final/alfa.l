@@ -1,5 +1,5 @@
 /******************************************
-Pareja: Daniel Mateo y Franccy del Piero Sambrano
+Pareja: DanMat27 y FPS
 File: alfa.l
 ******************************************/
 
