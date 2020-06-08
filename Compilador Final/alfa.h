@@ -1,8 +1,7 @@
 /**
 * File: alfa.h
-* Autores: Daniel Mateo
-*          Franccy del Piero Sambrano
-* Grupo: 1362
+* Autores: DanMat27
+*          FPS
 */
 
 #ifndef ALFA_H
