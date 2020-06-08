@@ -1,8 +1,7 @@
 /**
 * File: alfa.c
-* Autores: Daniel Mateo
-*          Franccy del Piero Sambrano
-* Grupo: 1362
+* Autores: DanMat27
+*          FPS
 */
 #include <stdio.h>
 #include <stdlib.h>
